@@ -1,5 +1,5 @@
 # send-files-to-remote
-Ce script PowerShell permet de transférer automatiquement un dossier vers plusieurs machines distantes via le partage de fichiers Windows (SMB), utile dans un environnement d’entreprise avec peu de droits administrateur.
+Ce script PowerShell permet de transférer automatiquement un dossier vers plusieurs machines distantes via le partage de fichiers Windows (SMB).
 
 ### Fonctionnalités principales :
 
