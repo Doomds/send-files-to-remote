@@ -26,5 +26,5 @@ $destinationPath = "C$\Temp"
 - Exécuter le script avec PowerShell sur un poste ayant les droits suffisants.
 - Observer les messages dans la console pour chaque transfert.
 
-## License
+### License
 This project is licensed under the MIT License.
